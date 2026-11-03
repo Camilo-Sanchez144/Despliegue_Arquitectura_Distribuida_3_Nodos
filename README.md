@@ -118,8 +118,4 @@ Presentación completa del proyecto y del despliegue: [Ver presentación](https:
 - Desarrollo de una API REST con Spring Boot
 - Consumo de una API desde JavaScript nativo (separación frontend/backend)
 
-## 👤 Autor
 
-**Yosed Camilo Sánchez**
-Estudiante de Ingeniería de Software, Uniempresarial
-[GitHub](https://github.com/[tu-usuario]) · [LinkedIn](https://linkedin.com/in/[tu-usuario])
