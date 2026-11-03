@@ -1,0 +1,8 @@
+body { background: #f4f6fb; }
+.navbar { background: linear-gradient(135deg, #1e3a8a, #6d28d9); }
+.card { border: 0; border-radius: 14px; box-shadow: 0 4px 18px rgba(30,58,138,.08); }
+.stat-icon { width: 48px; height: 48px; border-radius: 12px; display: grid; place-items: center; font-size: 1.4rem; }
+.table thead th { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: #6b7280; border-bottom: 2px solid #e5e7eb; }
+.btn-primary { background: #4f46e5; border-color: #4f46e5; }
+.btn-primary:hover { background: #4338ca; border-color: #4338ca; }
+tr.inactivo { opacity: .65; }
